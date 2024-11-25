@@ -145,7 +145,7 @@ h3 {
 @media (max-width:650px) {
 
     body {
-        color: white;
+        color: rgb(214, 204, 180);
     }
     
     header {
@@ -166,6 +166,7 @@ h3 {
         margin-top: 9vw;
         margin-left: 0;
         margin-right: 0;
+        background-color: rgba(92, 82, 62, 0.726);
     }
 
     #pdf {
