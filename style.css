@@ -144,6 +144,10 @@ h3 {
 
 @media (max-width:650px) {
 
+    body {
+        color: white;
+    }
+    
     header {
         padding: 8vw;
     }
